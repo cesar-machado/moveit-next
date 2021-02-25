@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: space-between;
 
-  margin: 3.5rem 0;
+  margin: 2.3rem 0;
   padding-bottom: 1rem;
   border-bottom: 1px solid #d7d8da;
 
@@ -11,9 +11,9 @@
 }
 
 .completeContainer span:first-child {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 .completeContainer span:last-child {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
