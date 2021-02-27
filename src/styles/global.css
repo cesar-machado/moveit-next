@@ -18,6 +18,20 @@
   --blue-twitter: #2aa9e0;
 }
 
+.theme-dark {
+  --white: #2e384d;
+  --background: rgba(46, 56, 77, 0.9);
+  --gray-line: #dcdde0;
+  --text: #e8e8e8;
+  --text-highlight: #b3b9ff;
+  --title: #fff;
+  --red: #e83f5b;
+  --green: #4cd62b;
+  --blue: #fff;
+  --blue-dark: #e8e8e8;
+  --blue-twitter: #2aa9e0;
+}
+
 @media (max-width: 1080px) {
   html {
     font-size: 93.75%;
