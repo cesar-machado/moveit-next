@@ -2,7 +2,7 @@
 
 </br>
 
-<img src="/public/logo-full.svg" width="500px"/>
+<img src="/public/logo-full.svg" width="500px" align="center"/>
 
 </br>
 
